@@ -1,0 +1,6 @@
+{
+  "name": "Transporte Escolar Tia Drika",
+  "description": "Sistema de gestão e portal do contratante para Transporte Escolar Tia Drika: controle de pagamentos PIX/dinheiro, alertas de vencimento, cadastro de alunos e escolas, comunicados e chat direto.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
